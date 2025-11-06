@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://express-mysql-backend-1.onrender.com/api/products";
+const API_BASE_URL = "https://express-mysql-backend.onrender.com/api/products";
 
 // GET All Products (Read)
 export const getAllProducts = async () => {
