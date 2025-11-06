@@ -1,4 +1,5 @@
-const API_BASE_URL = "/api/products"; // Uses the Vite proxy
+const API_BASE_URL = "https://express-mysql-backend.onrender.com/api/products";
+
 
 // GET All Products (Read)
 export const getAllProducts = async () => {
